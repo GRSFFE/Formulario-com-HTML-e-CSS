@@ -1,0 +1,8 @@
+.grupo {
+    border: 0;
+}
+
+fieldset.grupo .campo {
+    float: left;
+    margin-right: 1em;
+}
