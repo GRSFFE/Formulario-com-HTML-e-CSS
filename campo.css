@@ -16,6 +16,10 @@
     display: block;
 }
 
+#check {
+    display: inline-block;
+}
+
 .campo select option {
     padding-right: 1em;
 }
